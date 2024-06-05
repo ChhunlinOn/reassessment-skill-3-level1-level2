@@ -1,0 +1,57 @@
+body{
+    background-image: url("./image/caffee.png");
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif
+}
+
+.contain-caffee{
+    box-sizing: border-box;
+    padding: 15px;
+    margin-top: 2.5%;
+    background-color: #E6BE8A;
+    width: 30%;
+    height: 800px;
+    z-index: 1;
+}
+.contain-caffee h1{
+    text-align: center;
+    font-family: Impact, serif;
+    font-weight: bold;
+}
+.border{
+    width: 100%;
+    text-align: center;
+    font-style: italic;
+    padding-bottom: 8px;
+    border-bottom: 3px solid brown;
+}
+.contain-caffee h2{
+    text-align: center;
+    font-weight: bold;
+    font-family: Impact, serif;
+}
+.contain-caffee img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+.text-menu{
+    margin-top: -8px;
+    width: 100%;
+    border-bottom: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bottom-text{
+    margin-top: 10px;
+    text-align: center;
+}
+.bottom-text a{
+    color: black;
+}
+
