@@ -1,0 +1,7 @@
+.box{
+    height: 100px;
+}
+.col{
+    height: 150px;
+    border: 2px solid black;
+}
